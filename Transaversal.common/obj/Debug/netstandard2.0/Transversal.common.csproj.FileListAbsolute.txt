@@ -1,0 +1,9 @@
+D:\Learning\TATA\ApiTata\Transaversal.common\bin\Debug\netstandard2.0\Transversal.common.deps.json
+D:\Learning\TATA\ApiTata\Transaversal.common\bin\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TATA\ApiTata\Transaversal.common\obj\Debug\netstandard2.0\Transversal.common.csprojAssemblyReference.cache
+D:\Learning\TATA\ApiTata\Transaversal.common\obj\Debug\netstandard2.0\Transversal.common.AssemblyInfoInputs.cache
+D:\Learning\TATA\ApiTata\Transaversal.common\obj\Debug\netstandard2.0\Transversal.common.AssemblyInfo.cs
+D:\Learning\TATA\ApiTata\Transaversal.common\bin\Debug\netstandard2.0\Transversal.common.pdb
+D:\Learning\TATA\ApiTata\Transaversal.common\obj\Debug\netstandard2.0\Transversal.common.csproj.CoreCompileInputs.cache
+D:\Learning\TATA\ApiTata\Transaversal.common\obj\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TATA\ApiTata\Transaversal.common\obj\Debug\netstandard2.0\Transversal.common.pdb

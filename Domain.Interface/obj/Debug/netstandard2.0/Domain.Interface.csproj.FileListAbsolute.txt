@@ -1,0 +1,12 @@
+D:\Learning\TATA\ApiTata\Domain.Interface\bin\Debug\netstandard2.0\Domain.Interface.deps.json
+D:\Learning\TATA\ApiTata\Domain.Interface\bin\Debug\netstandard2.0\Domain.Interface.dll
+D:\Learning\TATA\ApiTata\Domain.Interface\bin\Debug\netstandard2.0\Domain.Interface.pdb
+D:\Learning\TATA\ApiTata\Domain.Interface\bin\Debug\netstandard2.0\Domain.Entity.dll
+D:\Learning\TATA\ApiTata\Domain.Interface\bin\Debug\netstandard2.0\Domain.Entity.pdb
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.csprojAssemblyReference.cache
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.AssemblyInfoInputs.cache
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.AssemblyInfo.cs
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.csproj.CoreCompileInputs.cache
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.csproj.CopyComplete
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.dll
+D:\Learning\TATA\ApiTata\Domain.Interface\obj\Debug\netstandard2.0\Domain.Interface.pdb

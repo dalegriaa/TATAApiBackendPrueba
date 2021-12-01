@@ -1,0 +1,12 @@
+D:\Learning\TATA\ApiTata\Infrastructure.interface\bin\Debug\netstandard2.0\Infrastructure.interface.deps.json
+D:\Learning\TATA\ApiTata\Infrastructure.interface\bin\Debug\netstandard2.0\Infrastructure.interface.dll
+D:\Learning\TATA\ApiTata\Infrastructure.interface\bin\Debug\netstandard2.0\Infrastructure.interface.pdb
+D:\Learning\TATA\ApiTata\Infrastructure.interface\bin\Debug\netstandard2.0\Domain.Entity.dll
+D:\Learning\TATA\ApiTata\Infrastructure.interface\bin\Debug\netstandard2.0\Domain.Entity.pdb
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.csprojAssemblyReference.cache
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.AssemblyInfoInputs.cache
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.AssemblyInfo.cs
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.csproj.CoreCompileInputs.cache
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.csproj.CopyComplete
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.dll
+D:\Learning\TATA\ApiTata\Infrastructure.interface\obj\Debug\netstandard2.0\Infrastructure.interface.pdb

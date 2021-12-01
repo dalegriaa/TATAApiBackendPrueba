@@ -1,0 +1,9 @@
+D:\Learning\TATA\ApiTata\Application.Dto\bin\Debug\netstandard2.0\Application.Dto.deps.json
+D:\Learning\TATA\ApiTata\Application.Dto\bin\Debug\netstandard2.0\Application.Dto.dll
+D:\Learning\TATA\ApiTata\Application.Dto\bin\Debug\netstandard2.0\Application.Dto.pdb
+D:\Learning\TATA\ApiTata\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.csprojAssemblyReference.cache
+D:\Learning\TATA\ApiTata\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.AssemblyInfoInputs.cache
+D:\Learning\TATA\ApiTata\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.AssemblyInfo.cs
+D:\Learning\TATA\ApiTata\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.csproj.CoreCompileInputs.cache
+D:\Learning\TATA\ApiTata\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.dll
+D:\Learning\TATA\ApiTata\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.pdb

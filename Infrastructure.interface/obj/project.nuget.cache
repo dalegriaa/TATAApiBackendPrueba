@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3s+n1yipWMpY7IsfANz3TxKKx4NhtxeZGzo5WAGeWUiMMg/eL/z4eQM3w4XxoZlx45YIkXB/6lPlPJK+HNWsA==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\TATA\\ApiTata\\Infrastructure.interface\\Infrastructure.interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xpert\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
